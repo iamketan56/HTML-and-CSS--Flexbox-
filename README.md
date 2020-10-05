@@ -1,2 +1,4 @@
 # HTML and CSS (Flexbox)
- use of css and flexbox
+
+It will help to learn flex property from basic(proper structure is their)
+ 
