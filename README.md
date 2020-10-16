@@ -1,4 +1,4 @@
-<h1 style="text-align:center><b>HTML and CSS (Flexbox)</b></h1>
+## HTML and CSS (Flexbox)
 
 It will help to learn flex property from basic(Proper Structuring is their)<br>
 <b>snapshot of my project</b>
