@@ -1,7 +1,7 @@
-# HTML and CSS (Flexbox)
+<h1 style="text-align:center><b>HTML and CSS (Flexbox)</b></h1>
 
-It will help to learn flex property from basic(proper structure is their)
-<b>Some snapshot of my project</b>
+It will help to learn flex property from basic(Proper Structuring is their)<br>
+<b>snapshot of my project</b>
 ![](https://github.com/iamketan56/HTML-and-CSS--Flexbox-/blob/master/F1.PNG)
 ![](https://github.com/iamketan56/HTML-and-CSS--Flexbox-/blob/master/f2.PNG)
 ![](https://github.com/iamketan56/HTML-and-CSS--Flexbox-/blob/master/f3.PNG)
